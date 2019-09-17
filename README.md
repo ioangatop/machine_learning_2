@@ -20,3 +20,16 @@ as described in chapter 34 of David MacKay's book "Information Theory, Inference
 
 
 - [Code](lab1/12402559_12141666_lab1.ipynb)
+
+## [__Lab 2 - IInference in Graphical Models__](lab2/12402559_12141666_lab2.ipynb)
+
+In this assignment, we implement the sum-product and max-sum algorithms for factor graphs over discrete variables.
+
+
+- [Code](lab2/12402559_12141666_lab2.ipynb)
+
+
+
+###### _Acknowledgement - References_
+
+_The majority of the projects come from the lab assignments of the [Machine Learning 2](https://coursecatalogue.uva.nl/xmlpages/page/2019-2020-en/search-course/course/73105) course of the MSc in Artificial Intelligence at the University of Amsterdam._
