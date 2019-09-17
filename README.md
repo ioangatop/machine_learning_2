@@ -21,7 +21,7 @@ as described in chapter 34 of David MacKay's book "Information Theory, Inference
 
 - [Code](lab1/12402559_12141666_lab1.ipynb)
 
-## [__Lab 2 - IInference in Graphical Models__](lab2/12402559_12141666_lab2.ipynb)
+## [__Lab 2 - Inference in Graphical Models__](lab2/12402559_12141666_lab2.ipynb)
 
 In this assignment, we implement the sum-product and max-sum algorithms for factor graphs over discrete variables.
 
