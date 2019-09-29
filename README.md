@@ -12,7 +12,7 @@ In this assignment, we implement the __Independent Component Analysis__ algorith
 as described in chapter 34 of David MacKay's book "Information Theory, Inference, and Learning Algorithms".
 
 <p align="center">
-  <img src="readme_imgs/1_a.png" width="1000" />
+  <img src="readme_imgs/reconstruction.png" width="1000" />
 </p>
 <p align="center">
     Results of signal reconstruction using different priors and W matrix initialization.
@@ -24,10 +24,23 @@ as described in chapter 34 of David MacKay's book "Information Theory, Inference
 ## [__Lab 2 - Inference in Graphical Models__](lab2/12402559_12141666_lab2.ipynb)
 
 In this assignment, we implement the sum-product and max-sum algorithms for factor graphs over discrete variables.
+We implemented these algorithms to a medical graph, in order to infer the possible decease.
 
+<p align="center">
+  <img src="readme_imgs/bayesian_network.png" width="300" />
+</p>
+<p align="center">
+    Medical Directed Graph.
+</p>
 
 - [Code](lab2/12402559_12141666_lab2.ipynb)
 
+
+## [__Lab 3 - ???__](lab2/12402559_12141666_lab3.ipynb)
+
+In this assignment, we implement the ...
+
+- [Code](lab2/12402559_12141666_lab3.ipynb)
 
 
 ###### _Acknowledgement - References_
