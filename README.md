@@ -6,7 +6,7 @@
 Repository of UvA's lab exercises for the course "Machine Learning 2" 2019.
 
 
-## [__Lab 1 - Independent Component Analysis__](lab1/12402559_12141666_lab1.ipynb)
+## [__Lab 1 - Independent Component Analysis__](lab_1/12402559_12141666_lab1.ipynb)
 
 In this assignment, we implement the __Independent Component Analysis__ algorithm,
 as described in chapter 34 of David MacKay's book "Information Theory, Inference, and Learning Algorithms".
@@ -19,9 +19,9 @@ as described in chapter 34 of David MacKay's book "Information Theory, Inference
 </p>
 
 
-- [Code](lab1/12402559_12141666_lab1.ipynb)
+- [Code](lab_1/12402559_12141666_lab1.ipynb)
 
-## [__Lab 2 - Inference in Graphical Models__](lab2/12402559_12141666_lab2.ipynb)
+## [__Lab 2 - Inference in Graphical Models__](lab_2/12402559_12141666_lab2.ipynb)
 
 In this assignment, we implement the sum-product and max-sum algorithms for factor graphs over discrete variables.
 We implemented these algorithms to a medical graph, in order to infer the possible decease.
@@ -33,14 +33,14 @@ We implemented these algorithms to a medical graph, in order to infer the possib
     Medical Directed Graph.
 </p>
 
-- [Code](lab2/12402559_12141666_lab2.ipynb)
+- [Code](lab_2/12402559_12141666_lab2.ipynb)
 
 
-## [__Lab 3 - ???__](lab2/12402559_12141666_lab3.ipynb)
+## [__Lab 3 - ???__](lab_3/12402559_12141666_lab3.ipynb)
 
 In this assignment, we implement the ...
 
-- [Code](lab2/12402559_12141666_lab3.ipynb)
+- [Code](lab_3/12402559_12141666_lab3.ipynb)
 
 
 ###### _Acknowledgement - References_
