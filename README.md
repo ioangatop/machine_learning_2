@@ -42,7 +42,7 @@ In this assignment, we implement the Expectation Maximization (EM) algorithm and
 on the MNIST dataset of written digits.
 
 <p align="center">
-  <img src="readme_imgs/vae_manifold.gif" width="300" />
+  <img src="readme_imgs/vae_manifold.gif" width="500" />
 </p>
 <p align="center">
     VAE's leanred manifold of the MNIST dataset of written digits.
