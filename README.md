@@ -36,9 +36,18 @@ We implemented these algorithms to a medical graph, in order to infer the possib
 - [Code](lab_2/12402559_12141666_lab2.ipynb)
 
 
-## [__Lab 3 - ???__](lab_3/12402559_12141666_lab3.ipynb)
+## [__Lab 3 - Expectation Maximization and Variational Autoencoder__](lab_3/12402559_12141666_lab3.ipynb)
 
-In this assignment, we implement the ...
+In this assignment, we implement the Expectation Maximization (EM) algorithm and Variational Autoencoder (VAE)
+on the MNIST dataset of written digits.
+
+<p align="center">
+  <img src="readme_imgs/vae_manifold.gif" width="300" />
+</p>
+<p align="center">
+    VAE's leanred manifold of the MNIST dataset of written digits.
+</p>
+
 
 - [Code](lab_3/12402559_12141666_lab3.ipynb)
 
